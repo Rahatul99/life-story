@@ -14,3 +14,5 @@ im adding new data with my git command line
 im adding new branch in my git
 
 it is my new secondry branch
+
+logo alignment fix
