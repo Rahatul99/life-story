@@ -2,7 +2,7 @@ i have complited hsc 2020
 i am rahatul islam im adding new data at my git hub 
 
 
-i have complitted my ssc 2015
+i have complitted my ssc 2014
 
 
 im adding more data about my life
@@ -12,4 +12,4 @@ im adding new data with my git command line
 
 
 im adding new branch in my git
-
+ new line is added
